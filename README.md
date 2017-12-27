@@ -1,4 +1,4 @@
-# react-tutorial
+# react-tutorial (my-app)
 
 This is https://reactjs.org/tutorial/tutorial.html tutorial with
 the practice points of this article implemented.Additionally I have
